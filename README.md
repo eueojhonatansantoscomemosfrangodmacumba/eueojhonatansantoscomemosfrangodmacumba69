@@ -4,7 +4,7 @@
 
 ## Meu nome é Gustavo
 ( Javascript | HTML | CSS ) 🚀
-- 🎥 Tenho um canal no Youtube [YouTube Channel](https://www.youtube.com/@Textotexto638/streams)
+- 🎥 Tenho um canal no [YouTube](https://www.youtube.com/@Textotexto638/streams)
 - 🎓 Bachelor's degree in Computer Science
 - 🌐 Passionate about web development
 - 💡 Love a good challenge
